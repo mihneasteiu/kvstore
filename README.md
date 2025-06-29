@@ -1,6 +1,6 @@
 # Concurrent and Distributed Key-Value Store
 
-This repository contains my implementation of a concurrent and distributed key-value store, developed as part of the **CSCI 0300 (Fundamentals of Computer Systems)** course at Brown University. You can find more information about the course [here](https://csci0300.github.io) and the project at these two links: [Part A](https://csci0300.github.io/assign/projects/project5.html) and [Part B](https://csci0300.github.io/assign/projects/project6.html). 
+This repository contains my implementation of a concurrent and distributed key-value store, developed as part of the **[CSCI 0300 (Fundamentals of Computer Systems)](https://csci0300.github.io)** course at Brown University. You can find more information about the project at these two links: [Part A](https://csci0300.github.io/assign/projects/project5.html) and [Part B](https://csci0300.github.io/assign/projects/project6.html).
 
 The project is split into two parts:
 
